@@ -23,3 +23,6 @@
 - [Day 20:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20020) Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20021) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20022) Build Pong: The Famous Arcade Game
+- [Day 23:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20023) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20024) Files, Directories and Paths
+- [Day 25:](https://github.com/Sule26/100-days-of-code-python/tree/main/Day%20025) Working with CSV Data and the Pandas Library
